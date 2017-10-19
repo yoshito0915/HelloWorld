@@ -33,7 +33,7 @@
 	-eeeeeeeeeeeeeeeeeeee
 -xxxxxxxxxxxxxx
 
-1.aaaaaa
-2.bbbbbb
-3.cccccc
+1. aaaaaa
+2. bbbbbb
+3. cccccc
 
